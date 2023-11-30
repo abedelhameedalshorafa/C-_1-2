@@ -1,0 +1,16 @@
+G:\OrangeTasks\c#\Task2\Task2\bin\Debug\net5.0\Task2.exe
+G:\OrangeTasks\c#\Task2\Task2\bin\Debug\net5.0\Task2.deps.json
+G:\OrangeTasks\c#\Task2\Task2\bin\Debug\net5.0\Task2.runtimeconfig.json
+G:\OrangeTasks\c#\Task2\Task2\bin\Debug\net5.0\Task2.runtimeconfig.dev.json
+G:\OrangeTasks\c#\Task2\Task2\bin\Debug\net5.0\Task2.dll
+G:\OrangeTasks\c#\Task2\Task2\bin\Debug\net5.0\ref\Task2.dll
+G:\OrangeTasks\c#\Task2\Task2\bin\Debug\net5.0\Task2.pdb
+G:\OrangeTasks\c#\Task2\Task2\obj\Debug\net5.0\Task2.csprojAssemblyReference.cache
+G:\OrangeTasks\c#\Task2\Task2\obj\Debug\net5.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+G:\OrangeTasks\c#\Task2\Task2\obj\Debug\net5.0\Task2.AssemblyInfoInputs.cache
+G:\OrangeTasks\c#\Task2\Task2\obj\Debug\net5.0\Task2.AssemblyInfo.cs
+G:\OrangeTasks\c#\Task2\Task2\obj\Debug\net5.0\Task2.csproj.CoreCompileInputs.cache
+G:\OrangeTasks\c#\Task2\Task2\obj\Debug\net5.0\Task2.dll
+G:\OrangeTasks\c#\Task2\Task2\obj\Debug\net5.0\ref\Task2.dll
+G:\OrangeTasks\c#\Task2\Task2\obj\Debug\net5.0\Task2.pdb
+G:\OrangeTasks\c#\Task2\Task2\obj\Debug\net5.0\Task2.genruntimeconfig.cache
